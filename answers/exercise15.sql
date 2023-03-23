@@ -1,1 +1,1 @@
-SELECT * FROM Students where PostalCode <> Null;
+SELECT * FROM Students where NOT PostalCode IS Null;
