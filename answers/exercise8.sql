@@ -1,0 +1,2 @@
+Insert into Students(StudentName, Address, City, PostalCode, Country)
+Values ('Jane Doe', '57 Union St', 'Glasgow, Scotland', 'G13RB');

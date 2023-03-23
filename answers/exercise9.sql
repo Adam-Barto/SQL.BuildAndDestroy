@@ -1,0 +1,1 @@
+Select * from Students where City NOT Like "Philadelphia";
